@@ -162,13 +162,3 @@ function removeSelectedItem() {
 }
 
 removeSelectedItem();
-
-function removeSelectedClass() {
-   const body = document.body;
-   const ordenList = document.getElementById('lista-tarefas');
-   body.addEventListener('click', function () {
-    ordenList.querySelector('.selected').classList.remove('selected');
-   });
-} 
-
-removeSelectedClass(); 
