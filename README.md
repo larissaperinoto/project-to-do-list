@@ -70,7 +70,7 @@ Adicione um elemento `button` com um id `remover-selecionado` que ao clicar no b
  
  ![Captura de tela de 2022-05-02 15-35-08](https://user-images.githubusercontent.com/98956659/166252861-bd4ccb2c-6d60-4916-84cb-385f887fac48.png)
   
-  ### Crie sua [lista de tarefas!](https://larissaperinoto.github.io/project-to-do-list/)
+  #### Crie sua [lista de tarefas](https://larissaperinoto.github.io/project-to-do-list/)!
   ![Captura de tela de 2022-05-02 15-11-50](https://user-images.githubusercontent.com/98956659/166252989-330f0d75-bd5a-4013-b766-2ea859250ff4.png)
   
 
